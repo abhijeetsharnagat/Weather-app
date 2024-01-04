@@ -19,7 +19,7 @@ Global Weather App is a user-friendly weather application that allows users to c
 
 ## Features
 
-- **Real-time Weather Data:** Get up-to-date temperature information for any location worldwide.
+- **Real-time Weather Data:** Get up-to-date temperature information for any location worldwide
 - **Detailed Weather Parameters:** In addition to temperature, view other essential weather parameters such as humidity, wind speed, and weather conditions.
 - **User-Friendly Interface:** The application is designed with simplicity in mind, ensuring a seamless user experience.
 - **Responsive Design:** Access the weather information on various devices, including desktops, tablets, and smartphones.
