@@ -42,7 +42,7 @@ https://github.com/devjainofficial/Weather-app.git
 Open the `index.html` file in your preferred web browser.
 
 4. **Enter Location:**
-Type the name of the location you want to check the weather for in the provided input field.
+Type the name of the location you want to check the weather for in the provided input field
 
 5. **View Weather Information:**
 Press the "Get Weather" button to view the current temperature and other weather parameters for the specified location.
